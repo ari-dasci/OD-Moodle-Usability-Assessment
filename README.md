@@ -7,7 +7,7 @@ It also gives access to template files corresponding to the instruments necessar
 ### Authors
 
 - Rosana Montes, Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI). University of Granada. Spain. Email: [rosana@ugr.es]
-- Liliana Herrera,University of Barranquilla. Colombia. Email: [lilianaherrera@mail.uniatlantico.edu.co]
+- Liliana Herrera, University of Atlnatico, Barranquilla, Colombia. Email: [lilianaherrera@mail.uniatlantico.edu.co]
 - Emilio Crisol, University of Granada. Spain. Email: [ecrisol@ugr.es]
 
 ### License
