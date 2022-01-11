@@ -9,13 +9,13 @@ Currently all these documents are in Spanish.
   + Excel with detailed data from the Wave tool [Wave-Assessment-data](https://github.com/ari-dasci/OD-Moodle-Usability-Assessment/blob/main/es/Informe-AccesibilidadWeb-Wave-detalle.xlsx)
   
 - Usability Test: 
-  + Backup copy (1.4MB) of the Moodle course used [Moodle-Course]()
-  + List of activities/tasks of the usability test. [Usability-Test-pdf]()
-  + University of Atlántico (UA) and University of Granada (UGR) assessment data. [Usability-Test-data]()
+  + Backup copy (1.4MB) of the Moodle course used [Moodle-Course](https://github.com/ari-dasci/OD-Moodle-Usability-Assessment/blob/main/es/copia_de_seguridad-moodle2-course-12874-grupo_focal_usabilidad-20180606-0610-nu.mbz)
+  + List of activities/tasks of the usability test. [Usability-Test-pdf](https://github.com/ari-dasci/OD-Moodle-Usability-Assessment/blob/main/es/tareas_testU_moodle.pdf)
+  + Excel with University of Atlántico (UA) and University of Granada (UGR) assessment data. [Usability-Test-data](https://github.com/ari-dasci/OD-Moodle-Usability-Assessment/blob/main/es/resultados_testU_moodle_UA_UGR.xlsx)
   
 - Focus groups:
-  + Handwritten documents used in the sessions and 
-  + a final report.
+  + Handwritten documents used in the sessions as feedback-capture-grids. [focus-group-data](https://github.com/ari-dasci/OD-Moodle-Usability-Assessment/blob/main/es/Informe-GruposFocales-UA-respuestas.pdf)
+  + University of Atlantico focus group report. [focus-group-pdf](https://github.com/ari-dasci/OD-Moodle-Usability-Assessment/blob/main/es/Informe-GruposFocales.pdf)
   
 - Questionnaires. We have designed seven closed questionnaries.
   + Questionnaire Q1: Coordinators/Managers of Moodle platform [Q1-managers-pdf](https://github.com/ari-dasci/OD-Moodle-Usability-Assessment/blob/main/es/Cuestionario-Q1-Coordinadores-Gestores.pdf) [Q1-managers-data](https://github.com/ari-dasci/OD-Moodle-Usability-Assessment/blob/main/es/Cuestionario-Q1-Coordinadores-Gestores-respuestas.xlsx)
