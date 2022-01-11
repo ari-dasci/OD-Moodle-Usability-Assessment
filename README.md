@@ -27,7 +27,7 @@ Breafly these are:
 - Focus groups: face-to-face experiences documented with feedback capture grids
 - Questionnaires. We have desinged seven closed questionnnaries:
   + Questionnaire Q1: Coordinators/Managers of Moodle platform
-  + Questionnaire Q1: Technical Team that administers the Moodle platform
+  + Questionnaire Q1: Technical Team or administrators of Moodle platform
   + Questionnaire Q2: Teachers Moodle users
   + Questionnaire Q2: Students Moodle users
   + Questionnaire Q3: Usability experts
