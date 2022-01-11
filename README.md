@@ -1,7 +1,7 @@
 # OD-Moodle-Usability-Assessment
 
 This repository contains raw data of a Case Use for Moodle 2.x and 3.x usability evaluation. 
-It also gives access to template files corresponding to the instruments necessary to apply the Moodle Usability Assessment Methodology using the Universal Design for Learning perspective development by the authors. 
+It also gives access to template files corresponding to the instruments necessary to apply the Moodle Usability Assessment Methodology using the Universal Design for Learning perspective developed by the authors. 
 
 
 ### Authors
@@ -15,10 +15,10 @@ It also gives access to template files corresponding to the instruments necessar
 This repository is under Creative Commons By-NC-ND license.
 
 
-## Case Study: Instruments and results
+### Case Study: Instruments and results
 
 We have applied our Moodle Usability Assessment Methodology using the Universal Design for Learning perspective for two Moodle instances: 2.x in the case of UGR platform, named PRADO and 3.x in UA with SICVI-567 platform.
-Here you can access to the [instruments](instruments.md) and the collected anonymous raw data.
+Here you can access to the [instruments and the collected anonymous raw data](instruments.md).
 
 Breafly these are:
 - AT Matrix. Our collection of free-online Assistive Tecnologies for Moodle. Used as Annex in our Questionnaries. 
@@ -33,3 +33,7 @@ Breafly these are:
   + Questionnaire Q3: Usability experts
   + Questionnaire Q4: MOOC participants with experience in a Moodle teaching role
   + Questionnaire Q4: MOOC Moodle participants
+
+## Acknowledgments
+
+The authors wish to thank the technical and management team of [CEPRUD](https://ceprud.ugr.es) at the University of Granada, together with the [Secretariat for Inclusion](https://inclusion.ugr.es), and the technical and management team of [SICVI567 at the Universidad del Atlántico](https://www.uneatlantico.es).
