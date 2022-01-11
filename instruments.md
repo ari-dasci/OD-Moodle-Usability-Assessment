@@ -2,10 +2,10 @@ Currently all these documents are in Spanish.
 
 - AT Matrix. 
   + Our collection of free-online Assistive Tecnologies for Moodle. [AT-Matrix-data](es/TA-matrix.xlsx)
-  + Version used as Annex in our Questionnaries. [AT-Matrix-PDF](es/Anexo-para-cuestionarios-TA-matrix.pdf)
+  + Version used as Annex in our Questionnaries. [AT-Matrix-pdf](es/Anexo-para-cuestionarios-TA-matrix.pdf)
 
 - Web Accessibility Assessment. 
-  + Report from the Wave tool [Wave-Assessment-PDF](https://github.com/ari-dasci/OD-Moodle-Usability-Assessment/blob/main/es/Informe-AccesibilidadWeb-Wave.pdf)
+  + Report from the Wave tool [Wave-Assessment-pdf](https://github.com/ari-dasci/OD-Moodle-Usability-Assessment/blob/main/es/Informe-AccesibilidadWeb-Wave.pdf)
   + Excel with detailed data from the Wave tool [Wave-Assessment-data](https://github.com/ari-dasci/OD-Moodle-Usability-Assessment/blob/main/es/Informe-AccesibilidadWeb-Wave-detalle.xlsx)
   
 - Usability Test: 
